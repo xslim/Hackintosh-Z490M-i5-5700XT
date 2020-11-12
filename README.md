@@ -4,6 +4,10 @@ Hackintosh config for my AsRock Z490M with i5 10gen and AMD 5700XT
 ## Hardware
 ### Working
 
+## Issues
+- Intel Wifi - https://github.com/OpenIntelWireless/itlwm
+- https://openintelwireless.github.io/itlwm/Troubleshooting.html
+
 ## Tools used
 - 
 
